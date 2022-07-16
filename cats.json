@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tor",
+    "age": 11,
+    "satiety": 50,
+    "mood": 86,
+    "health": 78
+  },
+  {
+    "name": "Casper",
+    "age": 12,
+    "satiety": 43,
+    "mood": 39,
+    "health": 83
+  },
+  {
+    "name": "Maric",
+    "age": 9,
+    "satiety": 71,
+    "mood": 57,
+    "health": 38
+  }
+]
